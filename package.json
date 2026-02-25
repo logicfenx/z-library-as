@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/z-library-as",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a z-library-as",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/z-library-as.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://themecss.com/z-library-digital-equalizer/"
+    },
+    "homepage": "https://themecss.com/z-library-digital-equalizer/"
+}
